@@ -3,7 +3,7 @@ import express from 'express';
 import mongoose from 'mongoose';
 
 
-import Category from './models/Category.js';
+import Category from './models/Publisher.js';
 import Product from './models/Product.js';
 
 const app = express();
